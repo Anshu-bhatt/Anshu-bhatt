@@ -24,7 +24,7 @@
 ### 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anshu-bhatt&show_icons=true&theme=dark&icon_color=E03A3A&title_color=E03A3A&text_color=C0C0C0&bg_color=0D1117" alt="GitHub Stats" />
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Anshu-bhatt&theme=dark&ring=E03A3A&fire=E03A3A&currStreakLabel=E03A3A)
+<!--   ![GitHub Streak](https://streak-stats.demolab.com?user=Anshu-bhatt&theme=dark&ring=E03A3A&fire=E03A3A&currStreakLabel=E03A3A) -->
 
 </p>
 
