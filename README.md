@@ -1,4 +1,4 @@
-## Hi there 👋
+![Anshu Bhatt](https://capsule-render.vercel.app/api?text=Anshu%20Bhatt&animation=blinking&fontColor=ffffff&height=100&type=waving&color=gradient)
 
 <!--
 **Anshu-bhatt/Anshu-bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
