@@ -33,9 +33,9 @@
 ### 🗡️ Featured Projects
 | Project | Description |
 |---|---|
-| **AI-Based Food Waste Reduction System** | 🍽️ Reduce food waste intelligently |
-| **Smart Cap for Blind People** | 🦯 Assist visually impaired with smart guidance |
-| **Vaccination Awareness Platform** | 💉 Civic engagement for health campaigns |
+| **Autonomous Legal Reviewer** | 🍽️ Classifies the legal clauses and gives risk score |
+| **MERN-Project** | 🦯 Login-Pages and implementing concepts of MERN stack |
+| **GateGPT: Gate tutor** | 💉 it helps student to achieve higher marks |
 
 ---
 
